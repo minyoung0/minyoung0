@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Minyoung%20Hwang&fontSize=70&animation=twinkling&fontColor=ffffff)
 
-
+ <h3 align="center">✨레벨업을 부지런히 하는 개발자가 되겠습니다✨</h3>
+ <h4 align="center">🏃‍🏃‍만렙이 되는 그 날까지🏃‍🏃‍♀️</h4>
+ <h4 align="center">깃허브 페이지 주소: https://minyoung0.github.io/</h4>
+<br>
+<br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -24,7 +28,7 @@
 <br>
 
 
-<h3 align="center"> 🍒 Me 🍒 </h3>
+<h3 align="center"> 🍒 About Me 🍒 </h3>
 <p align="center">
   <a href="https://www.instagram.com/me_nyaongv._.v/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>
   <a href="mailto:hmylove01@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
