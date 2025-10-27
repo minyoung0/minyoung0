@@ -2,9 +2,14 @@
 
  <h3 align="center">✨레벨업을 부지런히 하는 개발자가 되겠습니다✨</h3>
  <h4 align="center">🏃‍🏃‍만렙이 되는 그 날까지🏃‍🏃‍♀️</h4>
- <h4 align="center">깃허브 페이지 주소: https://minyoung0.github.io/</h4>
+ <h4 align="center">포트폴리오 : [황민영_전체포트폴리오.pdf](https://github.com/user-attachments/files/23158078/포트폴리오.pdf)</h4>
+ <h4 align="center">❤️커플 다이어리 프로젝트: https://github.com/minyoung0/diary_project.git</h4>
+ <h4 align="center">💉혈당 기반 건강관리 웹사이트 프로젝트: https://github.com/minyoung0/sugarcare_proejct.git</h4>
+ <h4 align="center">📷 블로그 프로젝트: https://github.com/minyoung0/blog_project.git</h4>
 <br>
-<br>
+
+
+
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
